@@ -27,3 +27,6 @@ The catalogue data and added story translations are maintained in dist/catalogue
 
 ## Hosting
 This repository contains a static website and requires no build step. Configure your static hosting provider to serve the dist directory. No API keys or hosting credentials are required to preview it.
+
+## Vercel deployment
+The root vercel.json configures this buildless HTML website to publish dist, with no install or build command. Import this repository with the repository root as Root Directory. Pushes to main trigger the connected production deployment.
