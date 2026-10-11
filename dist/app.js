@@ -1,13 +1,13 @@
 const translations = {
   "fr": {
     "skip": "Aller au contenu",
-    "announcement": "La science française. Une vision partagée pour le Moyen-Orient.",
-    "meetPartner": "Notre partenaire exclusif",
+    "announcement": "La science vétérinaire. Des élevages en meilleure santé.",
+    "meetPartner": "Horizons régionaux",
     "officialPartner": "Partenaire officiel ME",
     "navAbout": "Qui sommes-nous",
     "navProducts": "Produits Vet",
     "navPipeline": "Notre pipeline",
-    "navPartner": "Partenariat",
+    "navPartner": "Régions",
     "language": "Langue",
     "contact": "Contact",
     "explore": "Explorer les solutions",
@@ -32,7 +32,7 @@ const translations = {
     "catVaccines": "Vaccins & biothérapies",
     "catWelfare": "Bien-être avicole",
     "catTrials": "Recherche clinique",
-    "catPartner": "Partenariat Moyen-Orient",
+    "catPartner": "Connexions régionales",
     "catPipeline": "Notre pipeline",
     "aboutEyebrow": "UNE SCIENCE PORTEUSE DE SENS",
     "aboutTitle": "Une science avancée.<br>Des élevages plus forts.",
@@ -41,7 +41,7 @@ const translations = {
     "approachLink": "Découvrir notre approche",
     "value1": "Expertise de la recherche française",
     "value2": "La santé animale au centre",
-    "value3": "Un partenariat régional dédié",
+    "value3": "Une perspective régionale",
     "expertiseEyebrow": "NOS DOMAINES D’INTÉRÊT",
     "expertiseTitle": "Faire progresser<br>la santé aviaire.",
     "expertiseIntro": "Découvrez les domaines qui orientent notre vision vétérinaire. Pour les produits actuels et leur disponibilité régionale, contactez notre partenaire.",
@@ -58,7 +58,7 @@ const translations = {
     "step2Body": "La recherche clinique et l’évaluation scientifique éclairent les échanges autour des solutions vétérinaires avancées.",
     "step2Label": "DONNÉES & ÉVALUATION",
     "step3Title": "Créer le lien régional",
-    "step3Body": "EPGT est l’interlocuteur dédié aux demandes du Moyen-Orient, aux discussions de partenariat et aux informations sur les produits actuels.",
+    "step3Body": "Préparez votre demande avec le nom du produit, votre organisation et le marché concerné.",
     "step3Label": "PARTENARIAT & ACCÈS",
     "pipelineNote": "Contactez-nous pour obtenir les informations actuelles sur le pipeline et le développement.",
     "partnershipEyebrow": "UN PARTENARIAT EXCLUSIF",
@@ -85,7 +85,7 @@ const translations = {
     "play": "Reprendre",
     "next": "Suivant",
     "finish": "Terminer",
-    "contactDialogEyebrow": "RIGEL × EPGT",
+    "contactDialogEyebrow": "RIGEL",
     "contactDialogTitle": "Parlons de santé aviaire.",
     "contactDialogBody": "Présentez-nous votre demande.",
     "nameLabel": "Nom complet",
@@ -100,7 +100,7 @@ const translations = {
     "formNote": "Préparez une copie de votre demande à partager avec l’équipe officielle. Ce formulaire n’envoie aucun message.",
     "prepareEnquiry": "Préparer la demande",
     "enquiryReady": "Votre demande est prête.",
-    "enquiryReadyBody": "Téléchargez ou copiez votre demande pour la transmettre à votre contact officiel Rigel / EPGT.",
+    "enquiryReadyBody": "Téléchargez ou copiez votre demande pour la partager avec le contact régional approprié.",
     "downloadEnquiry": "Télécharger",
     "copyEnquiry": "Copier le texte",
     "editEnquiry": "Modifier",
@@ -108,118 +108,8 @@ const translations = {
     "copyFallback": "Sélectionnez le texte de l’aperçu pour le copier.",
     "menuOpen": "Ouvrir la navigation",
     "menuClose": "Fermer la navigation",
-    "close": "Fermer"
-  },
-  "ar": {
-    "skip": "انتقل إلى المحتوى",
-    "announcement": "خبرة فرنسية. ورؤية مشتركة للشرق الأوسط.",
-    "meetPartner": "تعرّف على شريكنا الحصري",
-    "officialPartner": "الشريك الرسمي بالمنطقة",
-    "navAbout": "من نحن",
-    "navProducts": "الحلول البيطرية",
-    "navPipeline": "البحث والتطوير",
-    "navPartner": "الشراكة",
-    "language": "اللغة",
-    "contact": "تواصل معنا",
-    "explore": "استكشف الحلول",
-    "scienceDriven": "علمٌ يُلهم. وهدفٌ يجمعنا.",
-    "veterinaryScience": "علوم بيطرية",
-    "watchTour": "اكتشف عالمنا",
-    "watchTourSub": "تعرّف على رؤيتنا العلمية",
-    "heroEyebrow": "رؤية متقدمة لصحة الدواجن",
-    "heroLine1": "نبتكر لمستقبل",
-    "heroLine2": "صحة الدواجن.",
-    "heroSub": "حلول بيطرية متقدمة. وغدٌ أكثر صحة.",
-    "heroDescription": "نستكشف حلولًا بيطرية وتقنيات حيوية متقدمة لصحة الدواجن، ونجمع خبرة البحث الفرنسي مع شريك حصري متفرغ لاحتياجات الشرق الأوسط.",
-    "discoverSolutions": "اكتشف حلولنا",
-    "ourStory": "قصتنا",
-    "solePartner": "رؤية واحدة. وشريك حصري واحد.",
-    "solePartnerSub": "EPGT — الشريك الرسمي الوحيد لريجل في الشرق الأوسط",
-    "photoBadge": "العلم في خدمة الحياة",
-    "sharedPurpose": "هدفنا المشترك",
-    "photoTitle": "نحمي مستقبل<br>صحة الدواجن.",
-    "photoFrench": "Protéger l’avenir avicole.",
-    "photoFootnote": "ابتكار فرنسي. والتزام إقليمي.",
-    "catVaccines": "اللقاحات والعلاجات الحيوية",
-    "catWelfare": "رعاية الدواجن",
-    "catTrials": "البحث السريري",
-    "catPartner": "شراكة الشرق الأوسط",
-    "catPipeline": "البحث والتطوير",
-    "aboutEyebrow": "علمٌ يصنع فرقًا",
-    "aboutTitle": "علم أكثر تقدمًا.<br>وقطعان أكثر صحة.",
-    "aboutLead": "صحة الدواجن أساس لمستقبل زراعي أكثر قدرة على الاستمرار.",
-    "aboutBody": "تقدّم ريجل منظورًا فرنسيًا للبحث في الحلول البيطرية والتقنيات الحيوية المتقدمة. ومن خلال الشراكة الحصرية مع إمارات بيرل للتجارة العامة، تلتقي هذه الرؤية مع احتياجات الشرق الأوسط.",
-    "approachLink": "تعرّف على منهجنا",
-    "value1": "خبرة البحث العلمي الفرنسي",
-    "value2": "صحة الحيوان في صميم اهتمامنا",
-    "value3": "شراكة إقليمية متخصصة",
-    "expertiseEyebrow": "مجالات اهتمامنا",
-    "expertiseTitle": "تركيز على ما يدفع<br>الصحة إلى الأمام.",
-    "expertiseIntro": "اكتشف المجالات التي تشكّل رؤيتنا البيطرية. لمعرفة المنتجات الحالية وتوافرها في المنطقة، تواصل مع شريكنا.",
-    "requestInformation": "اطلب معلومات المنتجات",
-    "availability": "تُؤكَّد معلومات المنتجات وتوافرها عند الاستفسار.",
-    "scienceEyebrow": "نظرة إلى المستقبل",
-    "scienceTitle": "الخطوة القادمة<br>تبدأ بالعلم.",
-    "scienceIntro": "من السؤال البحثي إلى الحل البيطري الهادف، كل خطوة تستحق الاهتمام.",
-    "pipelineEnquiry": "استفسر عن البحث والتطوير",
-    "step1Title": "نستكشف الإمكانات",
-    "step1Body": "منظور يستند إلى البحث العلمي لصحة الدواجن، مع الاهتمام بالاتجاهات الجديدة في العلوم البيطرية والتقنيات الحيوية.",
-    "step1Label": "البحث والاكتشاف",
-    "step2Title": "نبني المعرفة",
-    "step2Body": "يساعد البحث السريري والتقييم العلمي في إثراء الحوار حول الحلول البيطرية المتقدمة.",
-    "step2Label": "الأدلة والتقييم",
-    "step3Title": "نتواصل مع المنطقة",
-    "step3Body": "توفّر EPGT نقطة التواصل المتخصصة لاستفسارات الشرق الأوسط، ومناقشات الشراكة، والمعلومات الحالية عن المنتجات.",
-    "step3Label": "الشراكة والتواصل",
-    "pipelineNote": "تواصل معنا للحصول على المعلومات الحالية عن البحث والتطوير.",
-    "partnershipEyebrow": "شراكة حصرية واحدة",
-    "exclusive": "الشريك الرسمي الوحيد والحصري",
-    "partnershipTitle": "ابتكار فرنسي.<br>وطموح للشرق الأوسط.",
-    "partnershipBody": "إمارات بيرل للتجارة العامة (EPGT) هي الشريك الرسمي الوحيد والحصري لريجل في الشرق الأوسط، لتوفّر حلقة وصل إقليمية متخصصة في خدمة رؤية بيطرية مشتركة.",
-    "connectEPGT": "تواصل مع EPGT",
-    "officialRepresentation": "التمثيل الرسمي في الشرق الأوسط",
-    "france": "فرنسا",
-    "middleEast": "الشرق الأوسط",
-    "contactEyebrow": "نتقدم معًا",
-    "contactTitle": "مستقبل أكثر صحة<br>يبدأ بحوار.",
-    "contactBody": "ناقش الحلول البيطرية، أو توافر المنتجات في المنطقة، أو فرص الشراكة مع فريقنا.",
-    "startConversation": "ابدأ الحوار",
-    "footerTagline": "نطوّر العلوم البيطرية.<br>ويجمعنا هدف واحد.",
-    "backTop": "إلى الأعلى",
-    "rights": "جميع الحقوق محفوظة.",
-    "terms": "الشروط",
-    "privacy": "سياسة الخصوصية",
-    "expandedAccess": "سياسة الإتاحة الموسعة",
-    "guidedTour": "جولة تعريفية",
-    "previous": "السابق",
-    "pause": "إيقاف مؤقت",
-    "play": "متابعة",
-    "next": "التالي",
-    "finish": "إنهاء الجولة",
-    "contactDialogEyebrow": "RIGEL × EPGT",
-    "contactDialogTitle": "لنتحدث عن صحة الدواجن.",
-    "contactDialogBody": "أخبرنا قليلًا عن استفسارك.",
-    "nameLabel": "الاسم الكامل",
-    "emailLabel": "البريد الإلكتروني",
-    "organisationLabel": "الشركة أو المؤسسة",
-    "regionLabel": "الدولة / المنطقة",
-    "interestLabel": "أرغب في معرفة المزيد عن",
-    "interestProducts": "المنتجات وتوافرها",
-    "interestResearch": "البحث والتطوير",
-    "interestPartnership": "الشراكة الإقليمية",
-    "messageLabel": "استفسارك",
-    "formNote": "جهّز نسخة من استفسارك لمشاركتها مع الفريق الرسمي. هذا النموذج لا يرسل رسالة.",
-    "prepareEnquiry": "تجهيز الاستفسار",
-    "enquiryReady": "استفسارك جاهز.",
-    "enquiryReadyBody": "نزّل استفسارك أو انسخه لمشاركته مع جهة التواصل الرسمية لدى Rigel / EPGT.",
-    "downloadEnquiry": "تنزيل الاستفسار",
-    "copyEnquiry": "نسخ النص",
-    "editEnquiry": "تعديل",
-    "copied": "تم نسخ النص.",
-    "copyFallback": "يمكنك تحديد النص من المعاينة ونسخه.",
-    "menuOpen": "فتح القائمة",
-    "menuClose": "إغلاق القائمة",
-    "close": "إغلاق"
+    "close": "Fermer",
+    "productsFootnote": "Usage vétérinaire. Demandez les informations officielles du produit et sa disponibilité régionale."
   }
 };
 const focusContent = {
@@ -286,38 +176,6 @@ const focusContent = {
       "image": "laboratory",
       "alt": "Chercheuse vétérinaire évaluant des échantillons au microscope"
     }
-  },
-  "ar": {
-    "vaccines": {
-      "number": "01",
-      "label": "العلم والوقاية",
-      "title": "منظور استباقي<br>لصحة الدواجن.",
-      "body": "اكتشف اللقاحات والعلاجات الحيوية ضمن الاهتمام البيطري لريجل، حيث يلتقي البحث في التقنيات الحيوية مع احتياجات صحة الدواجن.",
-      "one": "اهتمام بالعلوم البيطرية والتقنيات الحيوية",
-      "two": "استفسارات المنطقة من خلال EPGT",
-      "image": "laboratory",
-      "alt": "عالمة تعمل في مختبر للبحث البيطري"
-    },
-    "welfare": {
-      "number": "02",
-      "label": "الصحة والرعاية",
-      "title": "دواجن أكثر صحة.<br>وغدٌ أكثر قوة.",
-      "body": "تربط رعاية الدواجن بين صحة كل طائر ومستقبل القطيع. تعرّف على مكانة صحة الحيوان والرعاية المسؤولة في رؤيتنا المشتركة.",
-      "one": "صحة الحيوان في صميم اهتمامنا",
-      "two": "رؤية تستلهم احتياجات الدواجن",
-      "image": "poultry",
-      "alt": "دواجن بيضاء بصحة جيدة في مزرعة حديثة مضاءة طبيعيًا"
-    },
-    "trials": {
-      "number": "03",
-      "label": "البحث والمعرفة",
-      "title": "أسئلة أفضل.<br>وفهمٌ أعمق.",
-      "body": "البحث السريري والتقييم العلمي عنصران أساسيان في الحوار حول الرعاية البيطرية المتقدمة. استفسر من فريقنا عن المعلومات الحالية للبحث والتطوير.",
-      "one": "منظور بيطري يستند إلى البحث",
-      "two": "المعلومات الحالية متاحة عند الاستفسار",
-      "image": "laboratory",
-      "alt": "باحثة بيطرية تفحص عينات بالمجهر"
-    }
   }
 };
 const tours = {
@@ -352,23 +210,6 @@ const tours = {
     {
       "title": "Unis par un partenariat exclusif.",
       "body": "Emirates Pearl General Trading est le seul partenaire officiel et exclusif de Rigel au Moyen-Orient, et l’interlocuteur dédié aux demandes régionales.",
-      "image": "poultry"
-    }
-  ],
-  "ar": [
-    {
-      "title": "علمٌ فرنسي. وهدفٌ واضح.",
-      "body": "اكتشف منظورًا بحثيًا للحلول البيطرية والتقنيات الحيوية، تضع صحة الدواجن في صميم اهتمامها.",
-      "image": "laboratory"
-    },
-    {
-      "title": "صحة القطيع أولًا.",
-      "body": "صحة الطيور هي الدافع وراء رؤيتنا المشتركة. اكتشف العلاقة بين العلوم البيطرية ورعاية الدواجن ومستقبل الزراعة.",
-      "image": "poultry"
-    },
-    {
-      "title": "تجمعنا شراكة حصرية واحدة.",
-      "body": "إمارات بيرل للتجارة العامة هي الشريك الرسمي الوحيد والحصري لريجل في الشرق الأوسط، وجهة التواصل المتخصصة لاستفسارات المنطقة.",
       "image": "poultry"
     }
   ]
@@ -419,29 +260,6 @@ const policies = {
         "Demandez la politique actuelle applicable et les informations propres au produit. Vous pouvez préparer une demande à l’aide du bouton de contact."
       ]
     }
-  },
-  "ar": {
-    "terms": {
-      "title": "شروط استخدام الموقع",
-      "paragraphs": [
-        "يعرّف هذا الموقع بشراكة Rigel وإمارات بيرل للتجارة العامة ومجالات الاهتمام البيطري. المحتوى معلومات عامة؛ ويجب تأكيد تفاصيل المنتجات ووضعها التنظيمي ومعلومات التطوير وتوافرها في المنطقة مع الفريق الرسمي.",
-        "تجهّز أداة الاستفسار نسخة محلية من رسالتك. وهي لا ترسل الاستفسار ولا تؤكد استلامه. شاركه عبر جهة التواصل الرسمية لدى Rigel أو EPGT."
-      ]
-    },
-    "privacy": {
-      "title": "خصوصية الموقع",
-      "paragraphs": [
-        "لا تتضمن هذه النسخة من الموقع أدوات تتبّع إعلانية أو تحليلية. يتم حفظ اللغة المفضلة في متصفحك لتذكّرها عند الزيارة التالية.",
-        "تبقى بيانات نموذج الاستفسار في الصفحة الحالية، وتُستخدم فقط لتجهيز النسخة التي تختار تنزيلها أو نسخها. لا تُرسل هذه البيانات إلى Rigel أو EPGT. وقد تعالج البنية المستضيفة معلومات الوصول التقنية اللازمة لتقديم الموقع."
-      ]
-    },
-    "access": {
-      "title": "استفسارات الإتاحة الموسعة",
-      "paragraphs": [
-        "للاستفسار عن الإتاحة الموسعة، تواصل مع فريق Rigel / EPGT الرسمي. لا يؤكد هذا الموقع وجود أي برنامج أو شروط أهليته أو توافره.",
-        "اطلب السياسة الحالية المطبقة والمعلومات الخاصة بالمنتج. يمكنك تجهيز استفسار من زر التواصل."
-      ]
-    }
   }
 };
 "use strict";
@@ -449,10 +267,11 @@ document.documentElement.classList.add("js");
 const $ = (selector, root = document) => root.querySelector(selector);
 const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
 Object.assign(translations.fr,catalogueTranslations.fr);
-Object.assign(translations.ar,catalogueTranslations.ar);
-const english = Object.fromEntries($$("[data-i18n]").map(el => [el.dataset.i18n, el.innerHTML]));
+
+const english = {"skip":"Skip to content","navAbout":"Who we are","navProducts":"Our products","navPipeline":"Our pipeline","navPartner":"Partnership","language":"Language","contact":"Contact us","explore":"Explore products","scienceDriven":"SCIENCE-DRIVEN. PURPOSE-LED.","veterinaryScience":"Veterinary science","watchTour":"Inside our world","watchTourSub":"Discover the science","heroEyebrow":"A NEW PERSPECTIVE ON POULTRY HEALTH","heroLine1":"Pioneering","heroLine2":"poultry health.","heroSub":"Advanced veterinary solutions. A healthier tomorrow.","heroDescription":"Bringing French biotechnological research and veterinary expertise to poultry health — with a dedicated partner in the Middle East.","discoverSolutions":"Discover our products","ourStory":"Our story","photoBadge":"SCIENCE IN SERVICE OF LIFE","sharedPurpose":"OUR SHARED PURPOSE","photoTitle":"Securing the future<br>of poultry health.","photoFrench":"Protéger l’avenir avicole.","photoFootnote":"French innovation. Regional commitment.","catVaccines":"Vaccines & bio-therapies","catWelfare":"Poultry welfare","catTrials":"Clinical research","catPartner":"Middle East partnership","catPipeline":"Our pipeline","aboutEyebrow":"SCIENCE WITH A PURPOSE","aboutTitle":"Better science.<br>Stronger flocks.","aboutLead":"Healthy poultry is at the heart of a resilient agricultural future.","approachLink":"Explore our approach","storyResearchTag":"A FRENCH SCIENTIFIC PERSPECTIVE","storyResearchEyebrow":"THE THINKING BEHIND OUR VISION","storyResearchTitle":"Science that stays<br>close to life.","storyResearchBody":"Our veterinary vision begins with the health of animals and the everyday realities of poultry farming. Rigel’s focus on advanced veterinary products and biotechnology brings these two perspectives into the same conversation.","storyResearchMore":"From nutritional formulations to broader veterinary areas of focus, the aim is to make our product information clear, relevant and easier to explore with the official team.","storyProductsLink":"Explore our products","storyCareTag":"ANIMAL HEALTH AT THE HEART","value1":"French research expertise","value2":"Animal health at the centre","value3":"A dedicated regional partnership","productsEyebrow":"EXPLORE OUR PRODUCTS","productsTitle":"Veterinary care.<br>Thoughtfully formulated.","productsIntro":"Discover Rigel’s veterinary formulations. Select a product to explore its composition, overview and pack details.","productDetails":"Discover product","productsFootnote":"For veterinary use. Contact EPGT for official product information and regional availability.","expertiseEyebrow":"OUR AREAS OF FOCUS","expertiseTitle":"Focused on what<br>moves health forward.","expertiseIntro":"Explore the areas shaping our veterinary vision. For current products and regional availability, speak with our partner.","requestInformation":"Request product information","availability":"Product information and availability are confirmed on enquiry.","scienceEyebrow":"LOOKING AHEAD","scienceTitle":"The next chapter<br>starts with science.","scienceIntro":"From a research question to a meaningful veterinary solution, every step deserves care.","pipelineEnquiry":"Enquire about our pipeline","step1Title":"Explore possibilities","step1Body":"A research-led perspective on poultry health, with attention to emerging veterinary and biotechnological approaches.","step1Label":"RESEARCH & DISCOVERY","step2Title":"Build understanding","step2Body":"Clinical research and scientific evaluation help inform the conversation around advanced veterinary solutions.","step2Label":"EVIDENCE & EVALUATION","step3Title":"Connect with the region","step3Body":"EPGT provides the dedicated point of contact for Middle East enquiries, partnership discussions and current product information.","step3Label":"PARTNERSHIP & ACCESS","pipelineNote":"Contact us for the current pipeline and development information.","contactEyebrow":"LET’S MOVE FORWARD, TOGETHER","contactTitle":"A healthier future<br>starts with a conversation.","contactBody":"Discuss veterinary solutions, regional availability or partnership opportunities with our team.","startConversation":"Start a conversation","footerTagline":"Advancing veterinary science.<br>Connected by purpose.","backTop":"Back to top","rights":"All Rights Reserved.","terms":"Terms","privacy":"Privacy Policy","expandedAccess":"Expanded Access Policy","viewPackaging":"View original packaging","productComposition":"Composition named on pack","productSpecies":"Target species listed on pack","productSpeciesValue":"Poultry, calves, sheep, goats and pigs.","productPartnerLabel":"Regional contact","productPartnerValue":"Emirates Pearl General Trading (EPGT) — Rigel’s Sole & Exclusive Official Partner in the Middle East.","productInformationNote":"This overview reflects the supplied packaging. Request the official technical sheet for approved indications, directions and precautions.","enquireProduct":"Enquire about this product","guidedTour":"A GUIDED INTRODUCTION","previous":"Previous","pause":"Pause","next":"Next","contactDialogTitle":"Let’s talk poultry health.","contactDialogBody":"Tell us a little about your enquiry.","nameLabel":"Full name","emailLabel":"Email address","organisationLabel":"Organisation","regionLabel":"Country / region","interestLabel":"I’m interested in","interestProducts":"Products & availability","interestResearch":"Research & pipeline","interestPartnership":"Regional partnership","messageLabel":"Your enquiry","formNote":"Prepare a copy of your enquiry to share with the official team. This form does not send a message.","prepareEnquiry":"Prepare enquiry","enquiryReady":"Your enquiry is ready.","enquiryReadyBody":"Download or copy your enquiry to share with the official Rigel / EPGT contact.","downloadEnquiry":"Download enquiry","copyEnquiry":"Copy text","editEnquiry":"Edit enquiry"};
 Object.assign(english,{play:"Resume",finish:"Finish",copied:"Text copied.",copyFallback:"Select the preview text to copy it.",menuOpen:"Open navigation",menuClose:"Close navigation",close:"Close"});
-Object.assign(english,catalogueTranslations.en);
+Object.assign(english,catalogueTranslations.en,{"rAnnouncement":"Veterinary science. Healthier flocks. A shared future.","rConnections":"Regional connections","rAbout":"Rigel’s veterinary portfolio connects nutritional support and animal health with the day-to-day needs of poultry farming. Explore the products, care resources and practical guidance behind a more informed professional conversation.","rStoryKicker":"FROM INFORMATION TO PRACTICE","rStoryTitle":"Better questions.<br>More informed care.","rStoryBody":"Clear product information helps veterinary teams connect the needs of the flock with the right professional advice.","rStoryMore":"Explore our care guides for practical context on nutrition, prevention and responsible medicine use.","rStoryLink":"Explore care resources","rNetworkKicker":"REGIONAL CONNECTIONS","rNetworkTitle":"Knowledge that travels.<br>Care that stays local.","rNetworkBody":"Explore product information, discuss market availability and find a regional point of contact for your professional enquiry.","rNetworkLink":"Explore regional connections"});
+Object.assign(translations.fr,{"rAnnouncement":"La science vétérinaire. Des élevages en meilleure santé.","rConnections":"Horizons régionaux","rAbout":"La gamme vétérinaire Rigel associe soutien nutritionnel et santé animale aux besoins quotidiens de l’aviculture. Découvrez nos produits, ressources et conseils pratiques.","rStoryKicker":"DE L’INFORMATION À LA PRATIQUE","rStoryTitle":"Mieux comprendre.<br>Mieux accompagner.","rStoryBody":"Une information produit claire aide les équipes vétérinaires à relier les besoins du troupeau aux conseils professionnels adaptés.","rStoryMore":"Consultez nos guides sur la nutrition, la prévention et l’utilisation responsable des médicaments.","rStoryLink":"Consulter les ressources","rNetworkKicker":"HORIZONS RÉGIONAUX","rNetworkTitle":"Un savoir qui circule.<br>Des soins de proximité.","rNetworkBody":"Consultez les informations produits, échangez sur leur disponibilité et trouvez un contact régional pour votre demande professionnelle.","rNetworkLink":"Découvrir les horizons régionaux"});
 let language = "en", category = "vaccines", tourIndex = 0, tourPaused = false, tourTimer, enquiryText = "", currentPolicy = null;
 const reducedMotion = matchMedia("(prefers-reduced-motion: reduce)").matches;
 const t = key => language === "en" ? english[key] ?? key : translations[language]?.[key] ?? english[key] ?? key;
@@ -490,15 +309,15 @@ function selectCategory(next, animate = true) {
   }
 }
 function setLanguage(next) {
-  if (!["en","fr","ar"].includes(next)) return;
+  if (!["en","fr"].includes(next)) return;
   language = next;
   document.documentElement.lang = next;
-  document.documentElement.dir = next === "ar" ? "rtl" : "ltr";
+  document.documentElement.dir = "ltr";
   $("#language").value = next;
   $$("[data-i18n]").forEach(el => el.innerHTML = t(el.dataset.i18n));
   setMenu(menu.classList.contains("open"));
   $$("[data-close]").forEach(button => button.setAttribute("aria-label",t("close")));
-  document.title = next === "ar" ? "Rigel × EPGT — مستقبل صحة الدواجن" : next === "fr" ? "Rigel × EPGT — L’avenir de la santé aviaire" : "Rigel × EPGT — Pioneering Poultry Health";
+  document.title = next === "fr" ? "Rigel — L’avenir de la santé aviaire" : "Rigel — Pioneering Poultry Health";
   selectCategory(category,false);
   renderProductCards();
   if ($("#product-dialog").open && currentProduct) renderProduct(currentProduct);
@@ -517,7 +336,7 @@ $(".expertise-tabs").addEventListener("keydown",event => {
   event.preventDefault();
   const tabs = $$("[data-tab]");
   const current = tabs.findIndex(button => button.dataset.tab === category);
-  const direction = (event.key === "ArrowRight" ? 1 : -1)*(language === "ar" ? -1 : 1);
+  const direction = (event.key === "ArrowRight" ? 1 : -1)*1;
   const next = event.key === "Home" ? 0 : event.key === "End" ? tabs.length-1 : (current+direction+tabs.length)%tabs.length;
   tabs[next].focus();
   selectCategory(tabs[next].dataset.tab);
@@ -618,7 +437,7 @@ $("#enquiry-form").addEventListener("submit",event => {
   const interest = form.elements.interest.selectedOptions[0].textContent;
   enquiryText = [
     "RIGEL × EMIRATES PEARL GENERAL TRADING",
-    language === "ar" ? "استفسار عن الحلول البيطرية والشراكة" : language === "fr" ? "Demande vétérinaire / partenariat" : "Veterinary / partnership enquiry",
+    language === "fr" ? "Demande vétérinaire / partenariat" : "Veterinary / partnership enquiry",
     "",
     t("nameLabel")+": "+values.get("name").trim(),
     t("emailLabel")+": "+values.get("email").trim(),
@@ -709,6 +528,5 @@ $("#product-enquiry").addEventListener("click",() => {
   form.elements.name.focus();
 });
 
-let initialLanguage = "en";
-try { const saved = localStorage.getItem("rigel-language"); if (["en","fr","ar"].includes(saved)) initialLanguage = saved; } catch {}
+let initialLanguage = "fr";
 setLanguage(initialLanguage);
