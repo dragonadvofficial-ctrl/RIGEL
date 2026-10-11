@@ -1,3 +1,7 @@
+# Farm-animal and regional-connections refresh
+
+The existing poultry-focused home design is retained. Both sites show the confirmed EPGT Middle East partner alongside clearly labelled regional partnership enquiries. No unverified third-party company appointments or logos are presented. Images are local optimized WebP files; lower-page photographs load lazily. New source generation completed; this refresh has not undergone browser verification.
+
 # October 11 content expansion
 
 See CONTENT.md for the new page architecture, editing workflow, sources and content boundaries. The existing home is retained and now links to separate company, catalogue, product, care, resource and enquiry pages. New editorial pages are in English; the Rigel home retains its existing language options. Valerian remains English-only. Enquiries prepare copyable/downloadable messages locally. The new pages use mobile-first responsive CSS and self-contained local assets. Source generation completed; browser verification of this expansion has not been performed.
