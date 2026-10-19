@@ -1,0 +1,262 @@
+{
+  "sel-e-d3": {
+    "brand": "rigel",
+    "idx": 5,
+    "name": "SEL-E.D₃",
+    "category": "support",
+    "purpose": "Vitamin E, D₃ & selenium",
+    "short": "Antioxidant and nutritional support with vitamins E, D₃ and selenium.",
+    "summary": "SEL-E.D₃ brings vitamin E, vitamin D₃ and selenium together in a liquid veterinary formulation. Its nutritional focus connects antioxidant support with the mineral and vitamin requirements of growing and breeding animals.",
+    "context": "The product sits within the nutritional part of the Rigel range. It is relevant to conversations about vitamin and selenium intake, breeding-flock nutrition and the nutritional challenges that can accompany demanding production conditions.",
+    "features": [
+      "Vitamin E and selenium are the formulation’s antioxidant-focused components.",
+      "Vitamin D₃ adds a vitamin component associated with calcium and phosphorus nutrition.",
+      "The presentation is intended for veterinary nutritional support rather than a substitute for a complete feeding programme."
+    ],
+    "composition": [
+      [
+        "Vitamin E",
+        "Included; concentration to be confirmed"
+      ],
+      [
+        "Vitamin D₃",
+        "Included; concentration to be confirmed"
+      ],
+      [
+        "Selenium",
+        "Included; concentration to be confirmed"
+      ]
+    ],
+    "presentation": "Liquid veterinary nutritional formulation",
+    "species": "Poultry, calves, sheep, goats and pigs are listed on the packaging.",
+    "route": "The packaging identifies administration through drinking water.",
+    "dose": "A mixing reference of 1 ml per 4 litres of water is shown in the supplied product material. It does not specify a complete species-specific course. Confirm the current product instructions and veterinarian’s plan before preparation.",
+    "planning": [
+      "Review the existing feed and supplementation programme to account for total vitamin and selenium intake.",
+      "Identify the species, production stage and reason for supplementation.",
+      "Confirm the preparation instructions, treatment period and reliable access to water."
+    ],
+    "fr": {
+      "category": "VITAMINES & MINÉRAUX",
+      "short": "Soutien nutritionnel et antioxydant : vitamines E, D₃ et sélénium.",
+      "summary": "SEL-E.D₃ associe les vitamines E et D₃ au sélénium dans une formulation liquide vétérinaire. Sa place dans la gamme concerne l’accompagnement nutritionnel des animaux en croissance et des troupeaux reproducteurs.",
+      "composition": "Vitamines E et D₃, sélénium ; concentrations à confirmer."
+    }
+  },
+  "v-plex": {
+    "brand": "rigel",
+    "idx": 4,
+    "name": "V-Plex A.D₃.E",
+    "category": "support",
+    "purpose": "Vitamins A, D₃ & E",
+    "short": "A liquid vitamin combination for nutritional support across production stages.",
+    "summary": "V-Plex A.D₃.E combines three vitamins in one veterinary nutritional presentation. The formulation’s focus spans vitamin A nutrition, vitamin D₃-related mineral metabolism and vitamin E’s antioxidant role.",
+    "context": "The product belongs to the vitamin-support range. A useful product discussion starts with the complete ration, the animal’s production stage and the practical reason for adding vitamins, rather than relying on a vitamin combination alone to address a health problem.",
+    "features": [
+      "Vitamin A contributes the formulation’s epithelial-tissue and mucosal-nutrition focus.",
+      "Vitamin D₃ connects the product with calcium, phosphorus and skeletal-nutrition discussions.",
+      "Vitamin E provides an antioxidant nutritional component within the combination."
+    ],
+    "composition": [
+      [
+        "Vitamin A",
+        "Included; concentration to be confirmed"
+      ],
+      [
+        "Vitamin D₃",
+        "Included; concentration to be confirmed"
+      ],
+      [
+        "Vitamin E",
+        "Included; concentration to be confirmed"
+      ]
+    ],
+    "presentation": "Liquid veterinary vitamin formulation",
+    "species": "Poultry, calves, sheep, goats and pigs are listed on the packaging.",
+    "route": "The presentation is labelled for administration through drinking water.",
+    "dose": "The supplied material shows a mixing reference of 1 ml per 4 litres of water. Frequency and course length are not fully specified. Confirm the exact product instructions and veterinary plan.",
+    "planning": [
+      "Check existing vitamin sources in feed, premixes and other supplements.",
+      "Discuss the needs of growing, laying or breeding animals separately.",
+      "Record preparation dates and follow the exact product’s handling instructions."
+    ],
+    "fr": {
+      "category": "FORMULATION VITAMINIQUE",
+      "short": "Une association liquide de vitamines A, D₃ et E pour le soutien nutritionnel.",
+      "summary": "V-Plex A.D₃.E réunit trois vitamines dans une présentation nutritionnelle vétérinaire. La formule associe les apports en vitamine A, le rôle de la vitamine D₃ dans la nutrition minérale et la composante antioxydante de la vitamine E.",
+      "composition": "Vitamines A, D₃ et E ; concentrations à confirmer."
+    }
+  },
+  "apra-til": {
+    "brand": "rigel",
+    "idx": 6,
+    "name": "APRA-TIL",
+    "category": "anti",
+    "purpose": "Veterinary antibacterial care",
+    "short": "A veterinary antibacterial presentation within the Rigel portfolio.",
+    "summary": "APRA-TIL is presented within Rigel’s antibacterial range. The supplied materials discuss poultry bacterial and respiratory-care contexts, including Mycoplasma-associated conditions, while the packaging presents a combination formulation.",
+    "context": "This product belongs in a veterinarian-led discussion about the suspected infection, the affected animals and the exact formulation available in the market. The supplied presentations do not consistently name the first antibacterial ingredient, so a confirmed current composition sheet is needed before product selection.",
+    "features": [
+      "Positioned in the antibacterial part of the veterinary portfolio.",
+      "The supplied information discusses bacterial respiratory-care contexts in poultry.",
+      "The current ingredient names and concentrations need confirmation because the supplied presentations differ."
+    ],
+    "composition": [
+      [
+        "Antibacterial formulation",
+        "Confirm the current active ingredients and concentrations"
+      ],
+      [
+        "Composition record",
+        "Supplied presentations are inconsistent; request the manufacturer’s current specification"
+      ]
+    ],
+    "presentation": "Veterinary antibacterial liquid presentation",
+    "species": "The supplied packaging lists poultry and several farm-animal species; local authorisation must be checked.",
+    "route": "The supplied product material refers to drinking-water administration.",
+    "dose": "The available formulation details are inconsistent, so a numerical mixing rate is not reproduced here. Obtain the current manufacturer specification and authorised administration directions before prescribing or preparation.",
+    "planning": [
+      "Confirm the active ingredients and strength of the exact supplied batch.",
+      "Provide the veterinarian with the species, clinical signs and previous treatment history.",
+      "Confirm any species restrictions, course length and food-production withdrawal requirements."
+    ],
+    "fr": {
+      "category": "SOIN ANTIBACTÉRIEN",
+      "short": "Une présentation antibactérienne de la gamme vétérinaire Rigel.",
+      "summary": "APRA-TIL fait partie de la gamme antibactérienne Rigel. Les informations disponibles concernent notamment des situations respiratoires bactériennes en aviculture. Les présentations fournies diffèrent sur la composition : demandez la spécification actuelle avant toute sélection.",
+      "composition": "Association antibactérienne : ingrédients et concentrations à confirmer sur la spécification actuelle."
+    }
+  },
+  "hepavon": {
+    "brand": "rigel",
+    "idx": 8,
+    "name": "HEPAVON",
+    "category": "support",
+    "purpose": "Liver & metabolic support",
+    "short": "A liver-focused nutritional formulation for metabolism and vitality.",
+    "summary": "HEPAVON broadens the Rigel range with a formulation centred on liver and metabolic support. Its product presentation combines choline, methionine and milk-thistle-related components with vitamins in a liquid veterinary supplement.",
+    "context": "The product is positioned around nutritional support for the liver, the organ’s metabolic role and the use of nutrients from feed. Discussions may include feed quality, changes in intake and the broader nutritional programme; a liver-support supplement does not replace investigation of suspected toxic exposure or illness.",
+    "features": [
+      "A liver-focused addition to the nutritional portfolio.",
+      "Choline and methionine are named alongside milk-thistle extract and silymarin.",
+      "The product’s stated focus connects metabolism, digestion and nutritional vitality."
+    ],
+    "composition": [
+      [
+        "Choline chloride & methionine",
+        "Named ingredients; concentrations not established"
+      ],
+      [
+        "Milk-thistle extract & silymarin",
+        "Named components"
+      ],
+      [
+        "Vitamins",
+        "Vitamin components are listed; request the complete quantified specification"
+      ]
+    ],
+    "presentation": "Liquid veterinary nutritional supplement",
+    "species": "Poultry, calves, sheep, goats and pigs are listed on the packaging.",
+    "route": "The bottle identifies administration through drinking water.",
+    "dose": "A sufficiently clear numerical dose is not available in the supplied material. Request the exact product’s mixing rate, frequency and duration from the veterinary team.",
+    "planning": [
+      "Discuss the feeding programme and any suspected feed-quality issue.",
+      "Confirm the complete formulation and how it fits with existing supplements.",
+      "Obtain product-specific preparation and administration instructions."
+    ],
+    "fr": {
+      "category": "SOUTIEN HÉPATIQUE",
+      "short": "Une formulation nutritionnelle centrée sur le foie, le métabolisme et la vitalité.",
+      "summary": "HEPAVON complète la gamme Rigel avec un soutien nutritionnel hépatique. La présentation associe notamment choline, méthionine, extrait de chardon-marie et silymarine, ainsi que des composants vitaminiques.",
+      "composition": "Choline, méthionine, extrait de chardon-marie, silymarine et vitamines ; spécification quantitative à confirmer."
+    }
+  },
+  "eltrixe": {
+    "brand": "rigel",
+    "idx": 9,
+    "name": "ELTRIXE",
+    "category": "support",
+    "purpose": "Feed-toxin & liver-support focus",
+    "short": "A toxin-management and liver-support presentation for veterinary nutritional programmes.",
+    "summary": "ELTRIXE is presented as a toxin-binder and hepatoprotectant within Rigel’s nutritional range. Its product positioning addresses feed-toxin management alongside liver support and the nutritional challenges associated with compromised feed quality.",
+    "context": "The formulation belongs in a broader conversation about feed storage, ingredient quality and veterinary assessment of suspected mycotoxin exposure. The product description refers to toxin management, but it does not establish effectiveness against every toxin or replace testing, feed correction and a professionally supervised response.",
+    "features": [
+      "Positioned around feed-toxin management and liver support.",
+      "A liquid veterinary presentation for integration into an assessed care programme.",
+      "The complete ingredient list and the scope of any toxin-binding claims require the current technical specification."
+    ],
+    "composition": [
+      [
+        "Formulation focus",
+        "Toxin-binding and liver-support presentation"
+      ],
+      [
+        "Quantified ingredients",
+        "Not established from the supplied material; request the current specification"
+      ]
+    ],
+    "presentation": "Liquid veterinary nutritional presentation",
+    "species": "Poultry, calves, sheep, goats and pigs are listed on the packaging.",
+    "route": "The bottle identifies administration through drinking water.",
+    "dose": "A complete numerical mixing rate and course are not clearly provided. Confirm the exact formulation, preparation rate and veterinary directions before use.",
+    "planning": [
+      "Identify and address any suspected feed source rather than relying on a supplement alone.",
+      "Ask which toxins and use conditions the current specification actually covers.",
+      "Confirm compatibility with the rest of the feeding and supplementation programme."
+    ],
+    "fr": {
+      "category": "SOUTIEN NUTRITIONNEL",
+      "short": "Une présentation orientée vers la gestion des toxines alimentaires et le soutien hépatique.",
+      "summary": "ELTRIXE est présenté dans la gamme nutritionnelle Rigel comme une formulation de gestion des toxines et de soutien hépatique. Son utilisation s’envisage dans une démarche globale de qualité des aliments et d’évaluation vétérinaire.",
+      "composition": "Présentation orientée vers la gestion des toxines ; composition complète et concentrations à confirmer."
+    }
+  },
+  "minron": {
+    "brand": "rigel",
+    "idx": 10,
+    "name": "MINRON",
+    "category": "support",
+    "purpose": "Minerals & trace elements",
+    "short": "Essential minerals, trace elements and choline in a liquid feed supplement.",
+    "summary": "MINRON adds a mineral-focused formulation to the Rigel portfolio. The label names macro-minerals, trace elements, choline chloride and vitamin B₁₂ in a one-litre veterinary feed-supplement presentation.",
+    "context": "The product’s nutritional focus connects mineral intake with skeletal development and the needs of laying and growing birds. A useful assessment considers the complete ration, water and other mineral supplements before deciding whether additional supplementation is appropriate.",
+    "features": [
+      "Macro-minerals including calcium, phosphorus and magnesium are listed.",
+      "Trace elements include zinc, manganese, iron, copper, cobalt and selenium.",
+      "Choline chloride and vitamin B₁₂ are also named on the presentation."
+    ],
+    "composition": [
+      [
+        "Macro-minerals",
+        "Phosphorus, calcium, magnesium, sodium and potassium"
+      ],
+      [
+        "Trace elements",
+        "Iron, zinc, manganese, copper, cobalt and selenium"
+      ],
+      [
+        "Additional named components",
+        "Choline chloride and vitamin B₁₂"
+      ],
+      [
+        "Ingredient concentrations",
+        "Request the quantified specification"
+      ]
+    ],
+    "presentation": "1 litre bottle · liquid veterinary feed supplement",
+    "species": "The supplied presentation lists poultry, calves, sheep, lambs and pigs.",
+    "route": "The label identifies administration through drinking water.",
+    "dose": "A complete numerical dose is not legible in the supplied material. Ask the veterinary team for the exact mixing rate and course for the intended species and ration.",
+    "planning": [
+      "Review the mineral content of the complete diet and other supplements.",
+      "Discuss the needs of layers, growing birds and farm animals separately.",
+      "Confirm the quantified composition and preparation instructions."
+    ],
+    "fr": {
+      "category": "MINÉRAUX & OLIGOÉLÉMENTS",
+      "short": "Minéraux, oligoéléments et choline dans une présentation liquide d’un litre.",
+      "summary": "MINRON complète la gamme Rigel avec une formulation minérale. L’étiquette mentionne des macro-minéraux, des oligoéléments, du chlorure de choline et de la vitamine B₁₂ dans un complément liquide vétérinaire.",
+      "composition": "Macro-minéraux, oligoéléments, chlorure de choline et vitamine B₁₂ ; concentrations à confirmer."
+    }
+  }
+}

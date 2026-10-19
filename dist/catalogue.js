@@ -42,48 +42,96 @@ const productCatalogue={
     "name": "SEL-E.D₃",
     "image": "sel-e-d3.jpg",
     "en": {
-      "category": "VITAMINS & MINERALS",
-      "short": "Vitamins E and D3, combined with selenium.",
-      "summary": "SEL-E.D₃ combines vitamins E and D3 with selenium in a veterinary formulation. The pack presents it as a nutritional formulation for the animal species listed below. Ask the official team for the full product specifications and technical sheet.",
-      "composition": "Vitamin E, vitamin D3 and selenium."
+      "category": "VITAMIN E, D₃ & SELENIUM",
+      "short": "Antioxidant and nutritional support with vitamins E, D₃ and selenium.",
+      "summary": "SEL-E.D₃ brings vitamin E, vitamin D₃ and selenium together in a liquid veterinary formulation. Its nutritional focus connects antioxidant support with the mineral and vitamin requirements of growing and breeding animals.",
+      "composition": "Vitamin E: Included; concentration to be confirmed; Vitamin D₃: Included; concentration to be confirmed; Selenium: Included; concentration to be confirmed"
     },
     "fr": {
       "category": "VITAMINES & MINÉRAUX",
-      "short": "Vitamines E et D3 associées au sélénium.",
-      "summary": "SEL-E.D₃ associe les vitamines E et D3 au sélénium dans une formulation vétérinaire. L’emballage le présente comme une formulation nutritionnelle destinée aux espèces indiquées ci-dessous. Demandez les spécifications complètes et la fiche technique à l’équipe officielle.",
-      "composition": "Vitamine E, vitamine D3 et sélénium."
+      "short": "Soutien nutritionnel et antioxydant : vitamines E, D₃ et sélénium.",
+      "summary": "SEL-E.D₃ associe les vitamines E et D₃ au sélénium dans une formulation liquide vétérinaire. Sa place dans la gamme concerne l’accompagnement nutritionnel des animaux en croissance et des troupeaux reproducteurs.",
+      "composition": "Vitamines E et D₃, sélénium ; concentrations à confirmer."
     }
   },
   "v-plex": {
     "name": "V-Plex A.D₃.E",
     "image": "v-plex-a-d3-e.jpg",
     "en": {
-      "category": "VITAMIN FORMULATION",
-      "short": "A veterinary combination of vitamins A, D3 and E.",
-      "summary": "V-Plex A.D₃.E brings vitamins A, D3 and E together in one veterinary formulation. The packaging describes a vitamin combination intended for the animal species listed below. Contact EPGT for the official technical sheet and detailed product information.",
-      "composition": "Vitamin A, vitamin D3 and vitamin E."
+      "category": "VITAMINS A, D₃ & E",
+      "short": "A liquid vitamin combination for nutritional support across production stages.",
+      "summary": "V-Plex A.D₃.E combines three vitamins in one veterinary nutritional presentation. The formulation’s focus spans vitamin A nutrition, vitamin D₃-related mineral metabolism and vitamin E’s antioxidant role.",
+      "composition": "Vitamin A: Included; concentration to be confirmed; Vitamin D₃: Included; concentration to be confirmed; Vitamin E: Included; concentration to be confirmed"
     },
     "fr": {
       "category": "FORMULATION VITAMINIQUE",
-      "short": "Une association vétérinaire de vitamines A, D3 et E.",
-      "summary": "V-Plex A.D₃.E réunit les vitamines A, D3 et E dans une formulation vétérinaire. L’emballage décrit une association vitaminique destinée aux espèces indiquées ci-dessous. Contactez EPGT pour obtenir la fiche technique officielle et les informations détaillées.",
-      "composition": "Vitamine A, vitamine D3 et vitamine E."
+      "short": "Une association liquide de vitamines A, D₃ et E pour le soutien nutritionnel.",
+      "summary": "V-Plex A.D₃.E réunit trois vitamines dans une présentation nutritionnelle vétérinaire. La formule associe les apports en vitamine A, le rôle de la vitamine D₃ dans la nutrition minérale et la composante antioxydante de la vitamine E.",
+      "composition": "Vitamines A, D₃ et E ; concentrations à confirmer."
     }
   },
   "apra-til": {
     "name": "APRA-TIL",
     "image": "apra-til.jpg",
     "en": {
-      "category": "VETERINARY ANTIBACTERIAL",
-      "short": "Tilmicosin phosphate with apramycin sulfate.",
-      "summary": "APRA-TIL is a veterinary antibacterial formulation. The supplied pack names a combination of tilmicosin phosphate and apramycin sulfate. Ask the official team for the approved technical sheet; product suitability and use must be determined by a veterinarian.",
-      "composition": "Tilmicosin phosphate and apramycin sulfate."
+      "category": "VETERINARY ANTIBACTERIAL CARE",
+      "short": "A veterinary antibacterial presentation within the Rigel portfolio.",
+      "summary": "APRA-TIL is presented within Rigel’s antibacterial range. The supplied materials discuss poultry bacterial and respiratory-care contexts, including Mycoplasma-associated conditions, while the packaging presents a combination formulation.",
+      "composition": "Antibacterial formulation: Confirm the current active ingredients and concentrations; Composition record: Supplied presentations are inconsistent; request the manufacturer’s current specification"
     },
     "fr": {
-      "category": "ANTIBACTÉRIEN VÉTÉRINAIRE",
-      "short": "Phosphate de tilmicosine et sulfate d’apramycine.",
-      "summary": "APRA-TIL est une formulation antibactérienne vétérinaire. L’emballage fourni mentionne une association de phosphate de tilmicosine et de sulfate d’apramycine. Demandez la fiche technique officielle ; le choix et l’utilisation du produit relèvent du vétérinaire.",
-      "composition": "Phosphate de tilmicosine et sulfate d’apramycine."
+      "category": "SOIN ANTIBACTÉRIEN",
+      "short": "Une présentation antibactérienne de la gamme vétérinaire Rigel.",
+      "summary": "APRA-TIL fait partie de la gamme antibactérienne Rigel. Les informations disponibles concernent notamment des situations respiratoires bactériennes en aviculture. Les présentations fournies diffèrent sur la composition : demandez la spécification actuelle avant toute sélection.",
+      "composition": "Association antibactérienne : ingrédients et concentrations à confirmer sur la spécification actuelle."
+    }
+  },
+  "hepavon": {
+    "name": "HEPAVON",
+    "image": "hepavon.webp",
+    "en": {
+      "category": "LIVER & METABOLIC SUPPORT",
+      "short": "A liver-focused nutritional formulation for metabolism and vitality.",
+      "summary": "HEPAVON broadens the Rigel range with a formulation centred on liver and metabolic support. Its product presentation combines choline, methionine and milk-thistle-related components with vitamins in a liquid veterinary supplement.",
+      "composition": "Choline chloride & methionine: Named ingredients; concentrations not established; Milk-thistle extract & silymarin: Named components; Vitamins: Vitamin components are listed; request the complete quantified specification"
+    },
+    "fr": {
+      "category": "SOUTIEN HÉPATIQUE",
+      "short": "Une formulation nutritionnelle centrée sur le foie, le métabolisme et la vitalité.",
+      "summary": "HEPAVON complète la gamme Rigel avec un soutien nutritionnel hépatique. La présentation associe notamment choline, méthionine, extrait de chardon-marie et silymarine, ainsi que des composants vitaminiques.",
+      "composition": "Choline, méthionine, extrait de chardon-marie, silymarine et vitamines ; spécification quantitative à confirmer."
+    }
+  },
+  "eltrixe": {
+    "name": "ELTRIXE",
+    "image": "eltrixe.webp",
+    "en": {
+      "category": "FEED-TOXIN & LIVER-SUPPORT FOCUS",
+      "short": "A toxin-management and liver-support presentation for veterinary nutritional programmes.",
+      "summary": "ELTRIXE is presented as a toxin-binder and hepatoprotectant within Rigel’s nutritional range. Its product positioning addresses feed-toxin management alongside liver support and the nutritional challenges associated with compromised feed quality.",
+      "composition": "Formulation focus: Toxin-binding and liver-support presentation; Quantified ingredients: Not established from the supplied material; request the current specification"
+    },
+    "fr": {
+      "category": "SOUTIEN NUTRITIONNEL",
+      "short": "Une présentation orientée vers la gestion des toxines alimentaires et le soutien hépatique.",
+      "summary": "ELTRIXE est présenté dans la gamme nutritionnelle Rigel comme une formulation de gestion des toxines et de soutien hépatique. Son utilisation s’envisage dans une démarche globale de qualité des aliments et d’évaluation vétérinaire.",
+      "composition": "Présentation orientée vers la gestion des toxines ; composition complète et concentrations à confirmer."
+    }
+  },
+  "minron": {
+    "name": "MINRON",
+    "image": "minron.webp",
+    "en": {
+      "category": "MINERALS & TRACE ELEMENTS",
+      "short": "Essential minerals, trace elements and choline in a liquid feed supplement.",
+      "summary": "MINRON adds a mineral-focused formulation to the Rigel portfolio. The label names macro-minerals, trace elements, choline chloride and vitamin B₁₂ in a one-litre veterinary feed-supplement presentation.",
+      "composition": "Macro-minerals: Phosphorus, calcium, magnesium, sodium and potassium; Trace elements: Iron, zinc, manganese, copper, cobalt and selenium; Additional named components: Choline chloride and vitamin B₁₂; Ingredient concentrations: Request the quantified specification"
+    },
+    "fr": {
+      "category": "MINÉRAUX & OLIGOÉLÉMENTS",
+      "short": "Minéraux, oligoéléments et choline dans une présentation liquide d’un litre.",
+      "summary": "MINRON complète la gamme Rigel avec une formulation minérale. L’étiquette mentionne des macro-minéraux, des oligoéléments, du chlorure de choline et de la vitamine B₁₂ dans un complément liquide vétérinaire.",
+      "composition": "Macro-minéraux, oligoéléments, chlorure de choline et vitamine B₁₂ ; concentrations à confirmer."
     }
   }
 };

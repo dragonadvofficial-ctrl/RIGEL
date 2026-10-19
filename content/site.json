@@ -285,36 +285,28 @@
   ],
   "productMeta": {
     "sel-e-d3": {
-      "composition": "Vitamin E, vitamin D₃ and selenium",
-      "presentation": "Veterinary nutritional presentation",
-      "species": "Poultry, calves, sheep, goats and pigs, as listed on the supplied packaging.",
-      "purpose": "Nutritional support",
-      "context": "Vitamin E and selenium contribute to complementary antioxidant functions, while vitamin D₃ is involved in calcium and phosphorus metabolism. Nutritional decisions should account for the complete diet, species and flock or herd circumstances.",
-      "sources": [
-        "nutrition",
-        "minerals"
-      ]
+      "composition": "Vitamin E: Included; concentration to be confirmed; Vitamin D₃: Included; concentration to be confirmed; Selenium: Included; concentration to be confirmed",
+      "presentation": "Liquid veterinary nutritional formulation",
+      "species": "Poultry, calves, sheep, goats and pigs are listed on the packaging.",
+      "purpose": "Vitamin E, D₃ & selenium",
+      "context": "The product sits within the nutritional part of the Rigel range. It is relevant to conversations about vitamin and selenium intake, breeding-flock nutrition and the nutritional challenges that can accompany demanding production conditions.",
+      "sources": []
     },
     "v-plex-a-d3-e": {
-      "composition": "Vitamins A, D₃ and E",
-      "presentation": "Veterinary nutritional presentation",
-      "species": "Poultry, calves, sheep, goats and pigs, as listed on the supplied packaging.",
-      "purpose": "Vitamin support",
-      "context": "Vitamin A is associated with epithelial tissue health; vitamin D₃ contributes to calcium and phosphorus metabolism; vitamin E supports antioxidant functions. Review the ration and existing supplementation before adding a vitamin product.",
-      "sources": [
-        "nutrition"
-      ]
+      "composition": "Vitamin A: Included; concentration to be confirmed; Vitamin D₃: Included; concentration to be confirmed; Vitamin E: Included; concentration to be confirmed",
+      "presentation": "Liquid veterinary vitamin formulation",
+      "species": "Poultry, calves, sheep, goats and pigs are listed on the packaging.",
+      "purpose": "Vitamins A, D₃ & E",
+      "context": "The product belongs to the vitamin-support range. A useful product discussion starts with the complete ration, the animal’s production stage and the practical reason for adding vitamins, rather than relying on a vitamin combination alone to address a health problem.",
+      "sources": []
     },
     "apra-til": {
-      "composition": "Tilmicosin phosphate and apramycin sulfate",
-      "presentation": "Veterinary anti-infective presentation",
-      "species": "Poultry, calves, sheep, goats and pigs, as listed on the supplied packaging.",
-      "purpose": "Veterinarian-led anti-infective care",
-      "context": "The supplied label identifies a combination of two antimicrobial ingredients. The exact formulation, authorised indication and species must be confirmed before prescribing. Clinical assessment and responsible antimicrobial use remain essential.",
-      "sources": [
-        "amr",
-        "records"
-      ]
+      "composition": "Antibacterial formulation: Confirm the current active ingredients and concentrations; Composition record: Supplied presentations are inconsistent; request the manufacturer’s current specification",
+      "presentation": "Veterinary antibacterial liquid presentation",
+      "species": "The supplied packaging lists poultry and several farm-animal species; local authorisation must be checked.",
+      "purpose": "Veterinary antibacterial care",
+      "context": "This product belongs in a veterinarian-led discussion about the suspected infection, the affected animals and the exact formulation available in the market. The supplied presentations do not consistently name the first antibacterial ingredient, so a confirmed current composition sheet is needed before product selection.",
+      "sources": []
     },
     "nitrozan": {
       "composition": "Confirm the complete active composition from the current product leaflet.",
@@ -378,6 +370,30 @@
         "goats",
         "records"
       ]
+    },
+    "hepavon": {
+      "composition": "Choline chloride & methionine: Named ingredients; concentrations not established; Milk-thistle extract & silymarin: Named components; Vitamins: Vitamin components are listed; request the complete quantified specification",
+      "presentation": "Liquid veterinary nutritional supplement",
+      "species": "Poultry, calves, sheep, goats and pigs are listed on the packaging.",
+      "purpose": "Liver & metabolic support",
+      "context": "The product is positioned around nutritional support for the liver, the organ’s metabolic role and the use of nutrients from feed. Discussions may include feed quality, changes in intake and the broader nutritional programme; a liver-support supplement does not replace investigation of suspected toxic exposure or illness.",
+      "sources": []
+    },
+    "eltrixe": {
+      "composition": "Formulation focus: Toxin-binding and liver-support presentation; Quantified ingredients: Not established from the supplied material; request the current specification",
+      "presentation": "Liquid veterinary nutritional presentation",
+      "species": "Poultry, calves, sheep, goats and pigs are listed on the packaging.",
+      "purpose": "Feed-toxin & liver-support focus",
+      "context": "The formulation belongs in a broader conversation about feed storage, ingredient quality and veterinary assessment of suspected mycotoxin exposure. The product description refers to toxin management, but it does not establish effectiveness against every toxin or replace testing, feed correction and a professionally supervised response.",
+      "sources": []
+    },
+    "minron": {
+      "composition": "Macro-minerals: Phosphorus, calcium, magnesium, sodium and potassium; Trace elements: Iron, zinc, manganese, copper, cobalt and selenium; Additional named components: Choline chloride and vitamin B₁₂; Ingredient concentrations: Request the quantified specification",
+      "presentation": "1 litre bottle · liquid veterinary feed supplement",
+      "species": "The supplied presentation lists poultry, calves, sheep, lambs and pigs.",
+      "purpose": "Minerals & trace elements",
+      "context": "The product’s nutritional focus connects mineral intake with skeletal development and the needs of laying and growing birds. A useful assessment considers the complete ration, water and other mineral supplements before deciding whether additional supplementation is appropriate.",
+      "sources": []
     }
   },
   "brand": "rigel"
