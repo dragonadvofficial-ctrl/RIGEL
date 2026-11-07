@@ -11,7 +11,7 @@ Photorealistic natural editorial hero photograph. Healthy white hens in an impec
 ## Laboratory photograph prompt
 Photorealistic natural editorial photograph. Female veterinary scientist in an ivory coat, protective glasses and navy gloves working with a microscope and clear unbranded sample containers in a bright laboratory. Soft natural window light, ivory and muted navy palette, realistic skin and hands, shallow depth of field. No text, logos, overlays or website graphics.
 ## Original product photographs
-- assets/sel-e-d3.jpg — user-supplied 17.jpg, unchanged.
+- assets/sel-e-d3.jpg — updated packshot supplied 2026-11-07.
 - assets/v-plex-a-d3-e.jpg — updated packshot supplied 2026-11-07.
 - assets/apra-til.jpg — updated packshot supplied 2026-11-07.
 
