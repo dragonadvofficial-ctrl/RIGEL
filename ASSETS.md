@@ -12,8 +12,8 @@ Photorealistic natural editorial hero photograph. Healthy white hens in an impec
 Photorealistic natural editorial photograph. Female veterinary scientist in an ivory coat, protective glasses and navy gloves working with a microscope and clear unbranded sample containers in a bright laboratory. Soft natural window light, ivory and muted navy palette, realistic skin and hands, shallow depth of field. No text, logos, overlays or website graphics.
 ## Original product photographs
 - assets/sel-e-d3.jpg — user-supplied 17.jpg, unchanged.
-- assets/v-plex-a-d3-e.jpg — user-supplied 18.jpg, unchanged.
-- assets/apra-til.jpg — user-supplied 19 (1).jpg, unchanged.
+- assets/v-plex-a-d3-e.jpg — updated packshot supplied 2026-11-07.
+- assets/apra-til.jpg — updated packshot supplied 2026-11-07.
 
 Product names, ingredient combinations and target species were taken from the visible package labels. Therapeutic efficacy claims and unreadable concentrations were not transcribed.
 
